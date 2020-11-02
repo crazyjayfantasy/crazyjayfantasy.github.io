@@ -1,0 +1,52 @@
+h1 {
+	background: #c0c0c0;
+	font-transform: upper-caps;
+	color: #ffffff;
+	text-align: center;
+	font-size: 500%;
+	margin: 0;
+	display: block;
+}
+
+nav {
+	background: #c0c0c0;
+	color: #000000;
+	font-size: 200%;
+	margin-bottom: 50px;
+}
+
+aside {display: none;}
+
+h2 {
+	color: #000080;
+	background: #808080;
+	margin:0 ;
+	font-size: 300%;
+}
+
+section {
+	background: #808080;
+}
+
+p {
+	display: block;
+	margin: 0;
+	font-size: 200%;
+	margin-bottom: 1em;
+}
+
+
+a {
+	background: #d8d6d6;
+	color: #000000;
+}
+
+ul {
+	background: #808080;
+	margin: 0;
+	font-size: 200%;
+}
+
+table {
+	font-size: 200%
+}
